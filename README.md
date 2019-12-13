@@ -2,7 +2,7 @@
 > This is a clone of an archived apple.com page. This project is the third HTML5 and CSS3 project while learning HTML5 and CSS3.
 
 
-![screenshot](./app_screenshot.png)
+![screenshot](img/apple-page.png)
 
 Align all elements with float OR flex.
 
